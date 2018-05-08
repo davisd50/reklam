@@ -1,0 +1,5 @@
+Reklam:
+ salt_roster_host: some_salt_roster_entry # Salt SSH roster entry
+ volumes:
+  - regex expression to match against zfs volumes
+  - another...

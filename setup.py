@@ -38,7 +38,8 @@ setup(name='reklam',
       zip_safe=False,
       install_requires=[
           'setuptools',
-          'zope.interface'
+          'sparc.cli',
+          'sparc.config'
 
       ],
       extras_require={
